@@ -4,6 +4,7 @@ package Interpreter;
  * Created by Asus on 17.05.2016.
  */
 public class Context {
+
     private String input;
     private String output;
 
